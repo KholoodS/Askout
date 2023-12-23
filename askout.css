@@ -1,0 +1,49 @@
+body{
+    background-color: #F2A0AF;
+
+}
+
+img{
+    height:265px;
+    width: 500px;
+    align-items: center;
+    margin-left: 30%;
+
+}
+
+p{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    font-size: xxx-large;
+}
+#btn {
+    position: absolute;
+    transition: .5s;
+    background-color: #F23D3D;
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+    border-radius: 12px;
+    border: 0cm;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight:bolder
+}
+
+#btn1 {
+    position: absolute;
+    transition: .5s;
+    background-color: #F23D3D;
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+    border-radius: 12px;
+    border: 0cm;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight:bolder;
+    margin-left: 550px;
+}
+
+#gif-container{
+    display: none;
+    
+}
